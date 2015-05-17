@@ -15,7 +15,7 @@
 		<br />
 		<h2>
 
-			<span>CICS Savvy test change</span>
+			<span>CICS Savvy test</span>
 		</h2>
 
 
